@@ -12,17 +12,15 @@
 // console.log(slice(["m", "a", "d", "i"], 1, 3));
 
 // function subString(num1, num2) {
-//   var str = "My name is...";
-//   var subStr = "";
-//   var len = str.length;
+//   let str = "My name is...";
+//   let subStr = "";
+//   let len = str.length;
 
 //   if (num1 < 0 || num2 > len) {
 //     console.log("Invalid input");
 //   } else {
-//     var k = 0;
 //     for (i = num1; i < num2; i++) {
 //       subStr = subStr + str[i];
-//       k++;
 //     }
 //     console.log(subStr);
 //   }
